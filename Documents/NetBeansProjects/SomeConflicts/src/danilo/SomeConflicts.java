@@ -15,7 +15,8 @@ public class SomeConflicts {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("On va avoir quelques conflits. Je suis dans desktop");
         System.out.println("On va avoir quelques conflits. Je suis dans netbeans");
     }
-    
+
 }
